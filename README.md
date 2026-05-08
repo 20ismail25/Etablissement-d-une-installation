@@ -1,4 +1,4 @@
-# Etablissement-d-une-installation
+# Etablissement-d-une-installation (PIC)
 
 ## SAE 4.5 - Établissement d'une Installation de Chantier (Bâtiment)
 
